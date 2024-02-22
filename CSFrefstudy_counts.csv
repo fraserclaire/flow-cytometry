@@ -1,0 +1,5 @@
+Cell type,Markers,Absolute,Median 5th,Median 95th
+T cell,CD3,0.62,0.15,1.83
+CD4 T cell,CD4,0.44,0.08,1.43
+CD8 T cell,CD8,0.13,0.04,0.4
+B cell,CD19,0,0,0.03

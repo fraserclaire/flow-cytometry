@@ -1,0 +1,6 @@
+Sample:,Beads/Beads2/Single Cells/Lymphocytes/CD3+ | Mean (CD3),Beads/Beads2/Single Cells/Lymphocytes/CD3+ | SD (CD3),Beads/Beads2/Single Cells/Lymphocytes/CD3+/CD4+ | Mean (CD4),Beads/Beads2/Single Cells/Lymphocytes/CD3+/CD4+ | SD (CD4),Beads/Beads2/Single Cells/Lymphocytes/CD3+/CD8+ | Mean (CD8),Beads/Beads2/Single Cells/Lymphocytes/CD3+/CD8+ | SD (CD8),Beads/Beads2/Single Cells/Lymphocytes/CD19+ | Mean (CD19),Beads/Beads2/Single Cells/Lymphocytes/CD19+ | SD (CD19)
+PBMC_844-220v1_001.fcs,4559,1959,1963,847,16184,7482,4781,1683
+PBMC_844-224v1_002.fcs,4619,1826,2308,900,21437,8016,n/a,n/a
+PBMC_844-206v5_003.fcs,5386,2286,2628,1117,20974,9271,n/a,n/a
+Mean,4855,2024,2300,955,19532,8256,,
+SD,461,237,333,143,2908,918,,
