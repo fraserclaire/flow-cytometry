@@ -1,0 +1,6 @@
+﻿A_runDate,A_sample,B_runDate,B_sample,statistical difference? (Y/N),same sample group? (Y/N)
+8/17/2023,206v5,10/3/2023,206v5,N,
+8/17/2023,220v1,10/3/2023,220v1,Y,
+8/17/2023,224v1,10/3/2023,224v1,N,
+8/17/2023,220v1,,218v1,N,
+8/17/2023,220v1,,205v5,Y,
